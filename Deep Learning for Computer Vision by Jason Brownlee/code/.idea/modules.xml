@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../fluent-python/.idea/fluent-python.iml" filepath="$PROJECT_DIR$/../../fluent-python/.idea/fluent-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Projects/gluon-cv/.idea/gluon-cv.iml" filepath="$PROJECT_DIR$/../../../Projects/gluon-cv/.idea/gluon-cv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Projects/hand-gesture-recognition/.idea/hand-gesture-recognition.iml" filepath="$PROJECT_DIR$/../../../Projects/hand-gesture-recognition/.idea/hand-gesture-recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Projects/lvis-api/.idea/lvis-api.iml" filepath="$PROJECT_DIR$/../../../Projects/lvis-api/.idea/lvis-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/.idea/tensorflow-models.iml" filepath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/.idea/tensorflow-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Projects/vision2meaning/.idea/vision2meaning.iml" filepath="$PROJECT_DIR$/../../../Projects/vision2meaning/.idea/vision2meaning.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="004f7db6-f717-47e4-8f7e-be508431a30c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/coco_test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_coco_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_lvis_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/download_and_convert_coco.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/datasets/lvis_analyze_groundtruth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fluent-python/01-data-model/frenchdeck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../fluent-python/01-data-model/frenchdeck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/gluon-cv/gluoncv/data/cityscapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/gluon-cv/gluoncv/data/cityscapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/gluon-cv/scripts/datasets/imagenet_val_maps.pklz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/gluon-cv/scripts/segmentation/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/gluon-cv/scripts/segmentation/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/lvis-api/lvis/vis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/lvis-api/lvis/vis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/lvis-api/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/lvis-api/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/data_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/data_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/utils/get_dataset_colormap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/utils/get_dataset_colormap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/utils/train_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/utils/train_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/vis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/vis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/object_detection/dataset_tools/create_coco_tf_record.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/object_detection/dataset_tools/create_coco_tf_record.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/object_detection/object_detection_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/object_detection/object_detection_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/vision2meaning/app_start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/app_start.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/vision2meaning/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/vision2meaning/datasets/.ipynb_checkpoints/lvis_analyze_segmentation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/datasets/.ipynb_checkpoints/lvis_analyze_segmentation-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/vision2meaning/datasets/lvis_analyze_segmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/datasets/lvis_analyze_segmentation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/vision2meaning/datasets/lvis_categories.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/datasets/lvis_categories.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/vision2meaning/server_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/server_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/vision2meaning/socket/demonstration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/socket/demonstration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/vision2meaning/socket/segment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/socket/segment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/vision2meaning/socket/socket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/vision2meaning/socket/socket_client.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="code" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1OciqR5MBWkncYz2Hd2CxDD0aiS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CommandLine" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Datasets/LVIS/annotations/lvis_v0.5_val.json" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../Projects/vision2meaning/zmq" />
+      <recent name="$PROJECT_DIR$/../../../Projects/vision2meaning" />
+      <recent name="$PROJECT_DIR$/../../../Projects/vision2meaning/model_zoo/deeplabv3" />
+      <recent name="$PROJECT_DIR$/../../../Projects/vision2meaning/segmentation" />
+      <recent name="$PROJECT_DIR$/../../../Projects/vision2meaning/static/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../Projects/vision2meaning/datasets" />
+      <recent name="$PROJECT_DIR$/../../../Courses/DataScience/Practices/ds1/final-project/data" />
+      <recent name="$PROJECT_DIR$/../../../Projects/vision2meaning/zmq" />
+      <recent name="$PROJECT_DIR$/../../../Projects/vision2meaning" />
+      <recent name="$PROJECT_DIR$/../../../Projects/Background_removal_using_image_segmentation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.build_lvis_data">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build_coco_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow-models" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_coco_data.py" />
+      <option name="PARAMETERS" value="--dataset_dir $PROJECT_DIR$/../../../Datasets/COCO --output_dir $PROJECT_DIR$/../../../Datasets/COCO/tf_record" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build_lvis_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow-models" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_lvis_data.py" />
+      <option name="PARAMETERS" value="--dataset_dir $PROJECT_DIR$/../../../Datasets/LVIS --output_dir $PROJECT_DIR$/../../../Datasets/LVIS/tf_record --category_names=&quot;person.n.01&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="segmentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vision2meaning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Projects/vision2meaning/segmentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Projects/vision2meaning/segmentation/segmentation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vision2meaning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Projects/vision2meaning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Projects/vision2meaning/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lvis-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Projects/lvis-api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Projects/lvis-api/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.segmentation" />
+      <item itemvalue="Python.build_lvis_data" />
+      <item itemvalue="Python.build_coco_data" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.build_lvis_data" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.build_coco_data" />
+        <item itemvalue="Python.segmentation" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="004f7db6-f717-47e4-8f7e-be508431a30c" name="Default Changelist" comment="" />
+      <created>1563264049387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563264049387</updated>
+      <workItem from="1563264052081" duration="1227000" />
+      <workItem from="1563761118413" duration="61000" />
+      <workItem from="1564283477134" duration="1955000" />
+      <workItem from="1564300412098" duration="16194000" />
+      <workItem from="1564453941573" duration="8264000" />
+      <workItem from="1564538691960" duration="1556000" />
+      <workItem from="1564540535213" duration="607000" />
+      <workItem from="1564541160550" duration="3147000" />
+      <workItem from="1564557419360" duration="1046000" />
+      <workItem from="1564558483826" duration="11414000" />
+      <workItem from="1564643039658" duration="386000" />
+      <workItem from="1564644538012" duration="13267000" />
+      <workItem from="1564714090431" duration="16778000" />
+      <workItem from="1564800552975" duration="5426000" />
+      <workItem from="1564909870172" duration="606000" />
+      <workItem from="1564910813165" duration="7957000" />
+      <workItem from="1564999923125" duration="2558000" />
+      <workItem from="1565054630952" duration="608000" />
+      <workItem from="1565140638189" duration="603000" />
+      <workItem from="1565145296493" duration="10007000" />
+      <workItem from="1565160471421" duration="26830000" />
+      <workItem from="1565282067099" duration="52491000" />
+      <workItem from="1566276477272" duration="43000" />
+      <workItem from="1566286121095" duration="1741000" />
+      <workItem from="1566314992421" duration="9977000" />
+      <workItem from="1566443683318" duration="4903000" />
+      <workItem from="1566458394506" duration="2687000" />
+      <workItem from="1566463007044" duration="9396000" />
+      <workItem from="1566544001450" duration="3030000" />
+      <workItem from="1566783170913" duration="2405000" />
+      <workItem from="1566793071148" duration="1319000" />
+      <workItem from="1566810610052" duration="14929000" />
+      <workItem from="1566981399813" duration="6213000" />
+      <workItem from="1567046424597" duration="34783000" />
+      <workItem from="1567662394387" duration="7704000" />
+      <workItem from="1567996874311" duration="16000" />
+      <workItem from="1567996903888" duration="41447000" />
+      <workItem from="1568257668132" duration="18751000" />
+      <workItem from="1568602565314" duration="25847000" />
+      <workItem from="1568859998673" duration="3017000" />
+      <workItem from="1568881569371" duration="12484000" />
+      <workItem from="1569206054071" duration="4621000" />
+      <workItem from="1569249610790" duration="8788000" />
+      <workItem from="1569303692396" duration="3365000" />
+      <workItem from="1569375025761" duration="8705000" />
+      <workItem from="1569480775072" duration="3629000" />
+      <workItem from="1569548828379" duration="10829000" />
+      <workItem from="1569654155267" duration="24000" />
+      <workItem from="1569654191884" duration="9953000" />
+      <workItem from="1569921451933" duration="895000" />
+      <workItem from="1569927183854" duration="3014000" />
+      <workItem from="1569983687217" duration="9656000" />
+      <workItem from="1570416908486" duration="1580000" />
+      <workItem from="1570671355907" duration="5089000" />
+      <workItem from="1570683559976" duration="17138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../Projects/Background_removal_using_image_segmentation" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/background_removal_using_image_segmentation/segment_camera_feed.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/background_removal_using_image_segmentation/segment_image.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda2/envs/my_env3/lib/python3.7/site-packages/tensorflow/python/training/checkpoint_management.py</url>
+          <line>335</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda2/envs/my_env3/lib/python3.7/site-packages/tensorflow/python/training/checkpoint_management.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda2/envs/my_env3/lib/python3.7/site-packages/turbojpeg.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/udp_video_streaming/udp_socket/video_grabber.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda2/envs/my_env3/lib/python3.7/site-packages/turbojpeg.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/vision2meaning/segmentation/segmentation.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/vision2meaning/segmentation/deeplab.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/object_detection/dataset_tools/create_kitti_tf_record.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/export_model.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/lvis-api/test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/lvis-api/lvis/eval.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/lvis-api/lvis/eval.py</url>
+          <line>477</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/lvis-api/lvis/eval.py</url>
+          <line>472</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/lvis-api/lvis/eval.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/lvis-api/lvis/vis.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/lvis-api/test.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/lvis-api/lvis/vis.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/lvis-api/lvis/vis.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_coco_data.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_coco_data.py</url>
+          <line>180</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_coco_data.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_coco_data.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_lvis_data.py</url>
+          <line>190</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_lvis_data.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_lvis_data.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_lvis_data.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_lvis_data.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_lvis_data.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets/build_lvis_data.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$12_cropped_image.coverage" NAME="12_cropped_image Coverage Results" MODIFIED="1564301838819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
+    <SUITE FILE_PATH="coverage/code$segment_camera_feed.coverage" NAME="segment_camera_feed Coverage Results" MODIFIED="1564541109924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Projects/background_removal_using_image_segmentation" />
+    <SUITE FILE_PATH="coverage/code$vector2d.coverage" NAME="vector2d Coverage Results" MODIFIED="1564910944710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../fluent-python/01-data-model" />
+    <SUITE FILE_PATH="coverage/code$09_resize_aspect_ratio.coverage" NAME="09_resize_aspect_ratio Coverage Results" MODIFIED="1564284510850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
+    <SUITE FILE_PATH="coverage/code$10_flip_image.coverage" NAME="10_flip_image Coverage Results" MODIFIED="1564286071201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
+    <SUITE FILE_PATH="coverage/code$segment_camera_feed__1_.coverage" NAME="segment_camera_feed (1) Coverage Results" MODIFIED="1564389726132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Projects/background_removal_using_image_segmentation" />
+    <SUITE FILE_PATH="coverage/code$08_resize_image.coverage" NAME="08_resize_image Coverage Results" MODIFIED="1564283991052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
+    <SUITE FILE_PATH="coverage/code$11_rotated_image.coverage" NAME="11_rotated_image Coverage Results" MODIFIED="1564301835533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
+    <SUITE FILE_PATH="coverage/code$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1564541051579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/code$frenchdeck.coverage" NAME="frenchdeck Coverage Results" MODIFIED="1564909791674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../fluent-python/01-data-model" />
+    <SUITE FILE_PATH="coverage/code$segmentation.coverage" NAME="segmentation Coverage Results" MODIFIED="1565000802095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Projects/vision2meaning/segmentation" />
+    <SUITE FILE_PATH="coverage/code$app.coverage" NAME="app Coverage Results" MODIFIED="1565145892477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Projects/vision2meaning" />
+    <SUITE FILE_PATH="coverage/code$test.coverage" NAME="test Coverage Results" MODIFIED="1568617369272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Projects/lvis-api" />
+    <SUITE FILE_PATH="coverage/code$build_lvis_data.coverage" NAME="build_lvis_data Coverage Results" MODIFIED="1568619944299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Projects/tensorflow-deeplabv3/research/deeplab/datasets" />
+    <SUITE FILE_PATH="coverage/code$02_normalize.coverage" NAME="02_normalize Coverage Results" MODIFIED="1564370460073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
+    <SUITE FILE_PATH="coverage/code$Flask___________Projects_vision2meaning_v2m_py_.coverage" NAME="Flask (../../../Projects/vision2meaning/v2m.py) Coverage Results" MODIFIED="1564459526099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$Flask___________Projects_Video_Stream_app_stream_py_.coverage" NAME="Flask (../../../Projects/Video-Stream/app_stream.py) Coverage Results" MODIFIED="1565165677076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/code$Flask___________Projects_Video_Stream_app_py_.coverage" NAME="Flask (../../../Projects/Video-Stream/app.py) Coverage Results" MODIFIED="1565165818322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/code$07_save_grayscale.coverage" NAME="07_save_grayscale Coverage Results" MODIFIED="1564283978577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
+    <SUITE FILE_PATH="coverage/code$segment_image.coverage" NAME="segment_image Coverage Results" MODIFIED="1564390138893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Projects/background_removal_using_image_segmentation" />
+    <SUITE FILE_PATH="coverage/code$bisect_demo.coverage" NAME="bisect_demo Coverage Results" MODIFIED="1564910635132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../fluent-python/02-array-seq" />
+    <SUITE FILE_PATH="coverage/code$01_load_show.coverage" NAME="01_load_show Coverage Results" MODIFIED="1564302041578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
+    <SUITE FILE_PATH="coverage/code$video_grabber.coverage" NAME="video_grabber Coverage Results" MODIFIED="1564459842021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Projects/udp_video_streaming/udp_socket" />
+    <SUITE FILE_PATH="coverage/code$v2m.coverage" NAME="app Coverage Results" MODIFIED="1564557160999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Projects/vision2meaning" />
+  </component>
+</project>

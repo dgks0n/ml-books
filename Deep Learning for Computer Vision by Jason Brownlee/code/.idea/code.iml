@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (env3)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="vision2meaning" />
+    <orderEntry type="module" module-name="tensorflow-models" />
+    <orderEntry type="module" module-name="fluent-python" />
+    <orderEntry type="module" module-name="gluon-cv" />
+    <orderEntry type="module" module-name="hand-gesture-recognition" />
+    <orderEntry type="module" module-name="lvis-api" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
